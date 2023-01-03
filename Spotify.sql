@@ -7,8 +7,8 @@ user_email varchar(40) not null,
 primary key (user_id)
 );
 
-insert into Users values ("31sqekzq7bsp3wvqxkugx5uahdwe","MANISH KUMAR","manishkumar0156@gmail.com");
-insert into Users values ("32sqekzq7bsp3wvqxkugx5uahdwe","RAJ","rj1234@gmail.com");
+insert into Users values ("31sqekzq7bsp3wvqxkugx5uahdwd","MANISH KUMAR","manish@gmail.com");
+insert into Users values ("32sqekzq7bsp3wvqxkugx5uahdw2","RAJ","rj1234@gmail.com");
 select * from Users;
 
 
